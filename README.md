@@ -13,19 +13,19 @@ Tested with **Python 3.9.6**
 
 1. Create a new Python virtual environment and activate it:
 
-    python -m venv venv
-    source venv/bin/activate
+        python -m venv venv
+        source venv/bin/activate
    
 2. Install dependencies:
 
-    pip install requirements.txt
+        pip install requirements.txt
    
 3. Download ADBench datasets form the link above and save them in the [datasets] folder. To replicate experiments, run: 
 
-    python ensemble.py datasets/
+        python ensemble.py datasets/
 
 4. Once the process is finished, extract paper tables and plots by running:
 
-   python extract_tables.py perf.csv
+       python extract_tables.py perf.csv
    
 **Warning!** Executing steps 3 and 4 will overwrite files with results and performances already provided in the repo. 
