@@ -4,7 +4,7 @@ Normalization of anomaly detection scores based on antagonistic fuzzy-sets
 Codes and experiments used for the paper:
 **Interpreting and Unifying Anomaly Scores with Antagonistic Fuzzy Sets**
 
-To respect the original authorship datasets are not included. They are openly available in the ADBench repo:
+Datasets are not included in this repo to respect the original authorship. They are anyway openly available in the ADBench repo:
 [https://github.com/Minqi824/ADBench/tree/main/adbench/datasets/Classical](https://github.com/Minqi824/ADBench/tree/main/adbench/datasets/Classical)
 
 Tested with **Python 3.9.6**
